@@ -5,6 +5,6 @@ geemap
 ee
 pygis
 folium
-ipywidget
+#ipywidget
 viola
 matplotlib
