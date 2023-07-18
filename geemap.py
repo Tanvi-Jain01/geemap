@@ -1,4 +1,4 @@
-import geemap 
+#import geemap 
 import streamlit as st
 import ee
 
