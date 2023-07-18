@@ -1,4 +1,5 @@
 #import geemap 
+import geemap.foliumap as geemap
 import streamlit as st
 import ee
 
