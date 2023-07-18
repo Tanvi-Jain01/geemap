@@ -27,7 +27,7 @@
 
 # # Display the map
 # Map
-import geemap
+import geemap as geemap
 import streamlit as st
 import ee
 
